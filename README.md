@@ -13,7 +13,6 @@
    - [bowling-score-card-reactNative](https://github.com/eliasdewan/bowling-score-card-reactNative#): A feature rich reactNative application with Async Storage and media.
    - [tripPlan](https://github.com/eliasdewan/tripPlan#): Android app with nested trip events, log with picure, time, title, description adn timestapm.
 
-*ps -  while doing self reflection I can see that I'm pretty weak compared to waht is needed for a job. What could make up for this is my persuit for doing a great job and apply engineering to what I dont already know.*
 <!--
 **eliasdewan/eliasdewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
