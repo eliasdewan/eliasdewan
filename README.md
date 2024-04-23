@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Elias 
 ### Passionate in creating convenience with practicality in mind.
 
-- 🌱 I’m currently learning web application development with Angular and Nestjs. Modern web Development.
+- 🌱 I’m currently learning web application development with Angular, Nestjs and Django.
 - 👯 I’m seeking for opportunities to contribute with my current skill level. 
 - 📝 I'm working toward expanding my knowledge on the wider software development lifecycle. 
 
