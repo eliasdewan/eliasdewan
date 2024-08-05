@@ -1,9 +1,9 @@
 ### Hi there 👋, Im Elias 
 ### Passionate in creating convenience with practicality in mind.
- ## I am actively seeking job opportunities to leverage my degree and skills in a meaningful way. Currently, I am working as a private hire driver around London, but my passion lies in automation using technology. I am eager to transition into a role where I can contribute and grow professionally.
+ ### I am actively seeking job opportunities to leverage my degree and skills in a meaningful way. Currently, I am working as a private hire driver around London, but my passion lies in automation using technology. I am eager to transition into a role where I can contribute and grow professionally.
  
-- 🌱 I like learn how things work without limiting to a single category or sector, that helps me think about possible solutions to problems of any kind, knowing one or many possible solutions is the start of solving problmes.
-- 🔭 I’m working on trip_rating that solves a real world problem for me and would for many. An application that gives insights about trips or journey in seconds.
+- 🌱 I like learn how things work without limiting to a single category or sector, that helps me think about possible solutions to problems of any kind, knowing one or many possible solutions is the beginning of solving problmes.
+- 🔭 I’m working on trip_rating, an application that gives insights about trips or journey instantly that solves a real world problem for me and would for many.
 - 🤔 I’m currently trying to find a way to more accuratly predict a journey duration with my trip_rating application.
 
   # About me:
